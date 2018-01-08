@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.thttde.com/mpms/img/m/logo.png</string>
+					<string>http://192.168.20.45:8080/thtplatformweb/img/m/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.thttde.com/mpms/img/m/logo.png</string>
+					<string>http://192.168.20.45:8080/thtplatformweb/img/m/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
