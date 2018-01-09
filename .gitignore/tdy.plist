@@ -18,7 +18,7 @@
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.thttde.thtapp</string>
-				<key>version</key>
+				<key>bundle-version</key>
 				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
